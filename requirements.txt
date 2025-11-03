@@ -1,0 +1,11 @@
+Flask==3.0.3
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.2
+joblib==1.4.2
+matplotlib==3.9.2
+seaborn==0.13.2
+# PyTorch support to load .pt models (CPU-only)
+torch==2.4.1
+# Optional big data handling (install only if needed)
+# pyspark==3.5.1
