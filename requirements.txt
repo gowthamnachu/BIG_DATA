@@ -5,6 +5,7 @@ scikit-learn==1.5.2
 joblib==1.4.2
 matplotlib==3.9.2
 seaborn==0.13.2
+gunicorn==21.2.0
 # PyTorch support to load .pt models (CPU-only)
 torch==2.4.1
 # Optional big data handling (install only if needed)
